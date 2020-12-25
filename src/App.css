@@ -1,0 +1,28 @@
+html,
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 24px;
+  min-height: 100vh;
+}
+
+.App-header {
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+}
+
+td {
+  width: 300px;
+}
+td button {
+  margin-left: 12px;
+}
+.buyMaterial {
+  margin-left: 12px;
+}
+.price td button {
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  justify-content: center;
+}
